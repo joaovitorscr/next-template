@@ -1,14 +1,14 @@
 # Next.js template
 
-## Stack
+## 🧱 Stack
 * Next.js
 * TailwindCSS
 * Eslint
 * Prettier
 
-## How to use it?
+## 🔌 How to use it?
 
-### Execute the code below
+### ⌨️ Execute the code below
 
 ```
 npx create-next-app --example https://github.com/joaovitorscr/next-template <APP-NAME> --use-<Your package manager(npm, pnpm, yarn)>
