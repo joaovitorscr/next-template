@@ -4,7 +4,12 @@
 * Next.js
 * TailwindCSS
 * Eslint
+* Prettier
+
+## How to use it?
+
+### Execute the code below
 
 ```
-npx create-next-app --example https://github.com/joaovitorscr/nextjs-eslint-prettier-template <APP-NAME>
+npx create-next-app --example https://github.com/joaovitorscr/next-template <APP-NAME> --use-<Your package manager(npm, pnpm, yarn)>
 ```
