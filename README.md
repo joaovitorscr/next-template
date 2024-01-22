@@ -6,6 +6,10 @@
 * Eslint
 * Prettier
 
+## ⚠️ Dependencies
+
+Node >=20.11
+
 ## 🔌 How to use it?
 
 ### ⌨️ Execute the code below
