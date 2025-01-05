@@ -1,49 +1,25 @@
-# Next.js template
+# 🤖 Next.js Template
 
-## 🧱 Stack
-* Next.js
-* TailwindCSS
-* Eslint
-* Prettier
+Created this boilerplate so I can setup new projects easily using my usual stack.
 
-## ⚠️ Dependencies
+## 🔨 Tech Stack
 
-Node >=20.11
+Next.js 14  
+React 18  
+TailwindCSS  
+Shadcn/ui
 
-## 🔌 How to use it?
+## 💻 Installation
 
-### ⌨️ Execute the code below
+Use the template executing the code bellow and swapping the relevant information.
 
+```bash
+npx create-next-app --example https://github.com/joaovitorscr/next-template <APP-NAME> --use-<Your package manager of choice (npm, pnpm, yarn, bun)>
 ```
-npx create-next-app --example https://github.com/joaovitorscr/next-template <APP-NAME> --use-<Your package manager(npm, pnpm, yarn)>
-```
 
-## File Structure
+## 🏫 Learn More
 
-├── public   
-│   └── assets   
-├── src   
-│   ├── app   
-│   │   ├── favicon.ico   
-│   │   ├── layout.tsx   
-│   │   └── page.tsx   
-│   ├── hooks   
-│   ├── lib   
-│   │   └── utils.ts   
-│   ├── screens   
-│   ├── shared   
-│   │   ├── components   
-│   │   └── layout   
-│   ├── styles   
-│   │   └── globals.css   
-│   ├── test   
-│   └── types   
-├── next.config.mjs   
-├── next-env.d.ts   
-├── package.json   
-├── pnpm-lock.yaml   
-├── postcss.config.js   
-├── prettier.config.js   
-├── tailwind.config.ts   
-├── tsconfig.json   
-└── README.md   
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
