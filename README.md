@@ -14,7 +14,7 @@ Shadcn/ui
 Use the template executing the code bellow and swapping the relevant information.
 
 ```bash
-npx create-next-app --example https://github.com/joaovitorscr/next-template <APP-NAME> --use-<Your package manager of choice (npm, pnpm, yarn, bun)>
+npx create-next-app@14 --example https://github.com/joaovitorscr/next-template <APP-NAME> --use-<Your package manager of choice (npm, pnpm, yarn, bun)>
 ```
 
 ## 🏫 Learn More
